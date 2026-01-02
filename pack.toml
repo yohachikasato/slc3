@@ -1,0 +1,13 @@
+name = "Slc 3"
+author = "yoha"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f8cdb12a2b6900fc58f56b8314b13fb8bfe14af8b68539c938c67b257f05609"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"

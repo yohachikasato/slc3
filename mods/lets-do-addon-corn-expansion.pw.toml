@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Corn Expansion"
+filename = "cornexpansion-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/20p2kirx/versions/88gRTWio/cornexpansion-neoforge-1.1.0.jar"
+hash-format = "sha512"
+hash = "7615299e82caa36748fe77ff14bd0ebb78891c52ab801a2f0a55e21ba46464dd134c3a7144d6939f8cc2b7c1ec21b3ae2f06c50a2b9b0cad9b2610be71897668"
+
+[update]
+[update.modrinth]
+mod-id = "20p2kirx"
+version = "88gRTWio"

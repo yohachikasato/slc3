@@ -1,0 +1,13 @@
+name = "Client Backpack"
+filename = "client_backpack-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad4d10bf7949e01d3b14bbca58ef51447acd8b82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820538
+project-id = 1313805
